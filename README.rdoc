@@ -1,0 +1,9 @@
+== samite
+
+A really small website to host my new portfolio.
+
+Still in progress!
+
+==== Why 'Samite?'
+
+I spelt 'Sam site' incorrectly and couldn't be bothered changing it. I know. I *know*.
